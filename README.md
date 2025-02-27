@@ -1,3 +1,1 @@
-### What's this project?
-
-### Who we are?
+### This repository is just for showcasing the project.
