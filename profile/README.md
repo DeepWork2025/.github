@@ -30,6 +30,8 @@ Our hour tally system functions like fitness tracking for your productivity—me
 
 We're an independent/indie **female** **team, fully remote** across Dublin, London, and Berlin, united by a vision: helping people reclaim their time and work with intention. 
 
+Details of our per-person development: [Wiki-About the Team](https://github.com/DeepWork2025/.github/wiki/About-the-Team)
+
 ## Our Mission
 
 Help people work *better* by working *less* and diving *deep* instead of skimming the surface.
